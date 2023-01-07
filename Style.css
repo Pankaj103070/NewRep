@@ -1,0 +1,28 @@
+Form{
+    border: 1px solid red;
+     display: inline-block;
+    height: auto;
+    background-color: rgba(208, 255, 0, 0.322);
+    border-radius: 5px;
+    width: auto;
+    margin-left: 150px;
+   
+}
+div{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin-left: 150px;
+    display: inline-block;
+} 
+/* .label1{
+    font-weight: bold;
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    font-size: 20px; */
+    
+/* }
+ .input{
+    height: 25px;
+    border-radius: 5px;
+}  */
